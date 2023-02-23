@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyOd+1KZ0PKfunmha3hJgPho",
+      "authorship_tag": "ABX9TyOMNr92hQQg2nYvp3+4HFdC",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -62,26 +62,18 @@
       }
     },
     {
-      "cell_type": "markdown",
+      "cell_type": "code",
       "source": [
         "1.\n",
-        "\n",
         "a. E-goverment : penggunaan teknologi informasi oleh pemerintah untuk memberikan informasi dan pelayanan bagi warganya, dam urusan bisnis.\n",
-        "\n",
         "b. Pendidikan : pembelajaran pengetahuan, keterampilan, dan kebiasaan sekelompok orang yang diturunkan dari satu generasi ke generasi berikutnya melalui pengajaran, pelatihan, atau penelitian.\n",
-        "\n",
         "c. Kesehatan : kondisi kesejahteraan fisik, mental, dan sosial yang lengkap dan bukan sekadar tidak adanya penyakit atau kelemahan. Pemahaman tentang kesehatan telah bergeser seiring dengan waktu.\n",
-        "\n",
         "d. Kepolisian : Polisi Nasional di Indonesia, yang bertanggung jawab langsung di bawah Presiden.\n",
-        "\n",
         "e. Dinas Perhubungan : unsur pelaksana otonomi daerah di bidang perhubungan yang berkedudukan di bawah dan bertanggung jawab kepada Gubernur melalui SEKDA.\n",
-        "\n",
         "f. TNI akatan Laut dan Udara : salah satu cabang angkatan perang dan merupakan bagian dari Tentara Nasional Indonesia (TNI) yang bertanggung jawab atas operasi pertahanan negara Republik Indonesia di laut.\n",
         "\n",
         "\n",
-        "\n",
-        "**2.**\n",
-        "\n",
+        "2.\n",
         "Windows\n",
         "\n",
         "- Kelebihan:\n",
@@ -113,8 +105,10 @@
         "macOS cenderung hanya digunakan pada keperluan desain grafis dan penggunaan ringan saja. Kurang idel untuk bermain game"
       ],
       "metadata": {
-        "id": "TC-zB_kUskgO"
-      }
+        "id": "PUhR2YPXwZJe"
+      },
+      "execution_count": null,
+      "outputs": []
     }
   ]
 }
