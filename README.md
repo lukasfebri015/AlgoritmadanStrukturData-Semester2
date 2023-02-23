@@ -1,1 +1,1 @@
-# Algoritma dan Struktur Data - Semester 2
+Semester 2
