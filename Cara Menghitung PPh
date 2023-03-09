@@ -1,0 +1,56 @@
+Lukas Febrian Laufra
+TI22F
+20220040076
+
+
+import java.util.Scanner;
+public class pajak {
+      public static void main(String[] args) {
+      try (Scanner input = new Scanner(System.in)) {
+      // Input data
+      System.out.print ("Masukkan penghasilan anda: ");
+      double penghasilanAnda = input.nextDouble();
+      System.out.print("Masukkan jumlah anak: ");
+      int jumlahAnak = input.nextInt();
+      // Hitung PTKP
+      double ptkp = 54000000 + 4500000 jumlahAnak;
+      // Hitung PKP 1
+      double pkp = penghasilanAnda - ptkp;
+      // Hitung PPh
+      double pph;
+      if (pkp <= 50000000) {
+      pph = pkp✶ 0.05; } else if (pkp <= 250000000) {
+      pph = 2500000 + (pkp 50000000) 0.15; } else if (pkp <= 500000000) {
+      pph = 32500000 + (pkp 250000000) * 0.25;
+      } else if (pkp <= 1000000000) { pph 95000000 + (pkp 500000000) 0.3;
+      } else { pph = 245000000+ (pkp 1000000000) 0.35;
+      }
+       // Output hasil
+      System.out.println("PTKP: " + ptkp);
+      System.out.println("PKP: " + pkp); System.out.println("PPh: + pph);
+   }
+   
+}
+
+CARA KE2
+import java.util.Scanner;
+public class pph_sacanner {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        Scanner input=new Scanner(System.in);
+        System.out.println("tarif");
+        int tarif=input.nextInt();
+        System.out.println("PP");
+        int PP=input.nextInt();
+        System.out.println("PTKP");
+        int PTKP=input.nextInt();
+        int PPH=(tarif*5/100);
+        if (tarif<=50000000);
+        System.out.println("PPH terhutang"+PPH);
+    }
+   
+}
